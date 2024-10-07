@@ -1,0 +1,2 @@
+# Jlox interpreter
+The motivation of this project is to learn make my own programming language by creating an interpreter. This project is being built by following the book [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom 
